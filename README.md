@@ -1,3 +1,3 @@
-# Calculadora de Preço por KG :balance_scale:
+# Price per Weight Calculator :balance_scale:
 ---
-Calculadora de Preço por KG feito em JavaScript vanilla (puro).
+A simple price per weight calculator made in Javascript.
